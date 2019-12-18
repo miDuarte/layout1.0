@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">EntreTelas</string>
+    <string-array name="lenguage">
+        <item>Lenguage</item>
+        <item>Português</item>
+        <item>Espanhol</item>
+        <item>Inglês</item>
+        <item>Russo</item>
+    </string-array>
+
+    <string-array name="generos">
+        <item>Category</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+        <item>Trans</item>
+        <item>Outros</item>
+    </string-array>
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
